@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: dfd985fdf2a82690217edd94110615d6ebe17821
+  revision: c9061cc5d480a3c2b2583523926be11baf010f43
   branch: master
   specs:
     capybara (2.6.0.dev)
@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: git://github.com/rack/rack.git
-  revision: 35599cfc2751e0ee611c0ff799924b8e7fe0c0b4
+  revision: c393176b0edf3e5d06cabbb6eb9d9c7a07b2afa7
   specs:
     rack (2.0.0.alpha)
       json
@@ -25,7 +25,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: e37b470a6675a05df5a57455a3ac8c1c88ef04d6
+  revision: 175992285b4ba1f9a69a8fba4f1cc90d267323c2
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -57,7 +57,7 @@ GIT
       activesupport (= 5.0.0.alpha)
       arel (= 7.0.0.alpha)
     activesupport (5.0.0.alpha)
-      concurrent-ruby (~> 1.0.0.pre3, < 2.0.0)
+      concurrent-ruby (~> 1.0.0.pre5, < 2.0.0)
       i18n (~> 0.7)
       json (~> 1.7, >= 1.7.7)
       method_source
@@ -93,7 +93,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.9.1.1)
-    concurrent-ruby (1.0.0.pre4)
+    concurrent-ruby (1.0.0.pre5)
     cvss (0.99.0)
     dawnscanner (1.4.2)
       cvss
