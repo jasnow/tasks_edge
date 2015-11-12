@@ -25,7 +25,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: f94e9a69b09fe63ba722a8e1815d0bd1f3daf3a6
+  revision: 99c1043aa9a1ff81aa1eef6e957f7ebe89ff25f1
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -92,7 +92,7 @@ GEM
     coffee-script (2.4.1)
       coffee-script-source
       execjs
-    coffee-script-source (1.9.1.1)
+    coffee-script-source (1.10.0)
     concurrent-ruby (1.0.0.pre5)
     cvss (0.99.0)
     dawnscanner (1.4.2)
