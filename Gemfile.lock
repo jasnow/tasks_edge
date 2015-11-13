@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: 5a649d6c00db35895dde989792028fd555558ca8
+  revision: e6886ded179474fe2be922514b7949599e17cccb
   branch: master
   specs:
     capybara (2.6.0.dev)
@@ -25,7 +25,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 99c1043aa9a1ff81aa1eef6e957f7ebe89ff25f1
+  revision: c83d1e5508b27d810e37f11cec036a69697d26b8
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -87,7 +87,7 @@ GEM
     addressable (2.3.8)
     ast (2.1.0)
     builder (3.2.2)
-    childprocess (0.5.7)
+    childprocess (0.5.8)
       ffi (~> 1.0, >= 1.0.11)
     coffee-script (2.4.1)
       coffee-script-source
