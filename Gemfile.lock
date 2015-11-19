@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: e6886ded179474fe2be922514b7949599e17cccb
+  revision: 751e228f826398f5b178c932c77b932df713e484
   branch: master
   specs:
     capybara (2.6.0.dev)
@@ -25,7 +25,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: ce37df9cc1f2c3cdc63dc677645bdfec05c787fe
+  revision: 632f401ad258c98ade776846a6227c3136836d2b
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
