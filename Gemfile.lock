@@ -25,7 +25,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 09dde024d3b85a74d2efc233fc309089757a28cf
+  revision: bf9facb31cf029f3ec1ef888825d50c9a2c713d6
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -84,7 +84,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.3.8)
+    addressable (2.4.0)
     ast (2.1.0)
     builder (3.2.2)
     childprocess (0.5.8)
