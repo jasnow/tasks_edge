@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: 03a943ea84a4d7ed2e57d6ad74c357ec1982a956
+  revision: 89ddd5b6e36a2f01055d475dfbee020fcbb15e44
   branch: master
   specs:
     capybara (2.6.0.dev)
@@ -179,7 +179,7 @@ GEM
       sexp_processor (~> 4.1)
     sass (3.4.19)
     sexp_processor (4.6.0)
-    sprockets (3.5.1)
+    sprockets (3.5.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (2.3.3)
