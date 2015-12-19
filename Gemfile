@@ -1,10 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'rails',      github: 'rails/rails'
-gem 'rack',       github: 'rack/rack'
-gem 'arel',       github: 'rails/arel'
-gem 'capybara',   github: 'jnicklas/capybara', branch: 'master'
-
+gem 'rails', '5.0.0.beta1'
+gem 'capybara', github: 'jnicklas/capybara', branch: 'master'
 
 gem 'sqlite3'
 gem 'sass'
