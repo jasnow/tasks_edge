@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: 9d139b389a13d2f141d9ac8eaf0e70cd2165ceba
+  revision: 343f851ee09e5ee9f02be2a57f6eb97082b40081
   branch: master
   specs:
     capybara (2.6.0.dev)
@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: e426258aa263d2646aad27e498f550ac49a8d388
+  revision: c56e56773815221ef1fbd127f949c3e5207ea471
   specs:
     actioncable (5.0.0.beta1)
       actionpack (= 5.0.0.beta1)
@@ -215,7 +215,7 @@ GEM
     multi_json (1.11.2)
     nokogiri (1.6.7.1)
       mini_portile2 (~> 2.0.0.rc2)
-    overcommit (0.29.1)
+    overcommit (0.30.0)
       childprocess (~> 0.5.6)
       iniparse (~> 1.4)
     ptools (1.3.3)
