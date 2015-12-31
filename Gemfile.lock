@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: 957c35f580b68e8a140b5bbe7818fdcf06bc4521
+  revision: 4b3093f4bd12a682b41d8e88d3958d33e70f4662
   branch: master
   specs:
     capybara (2.6.0.dev)
@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 904e3f4465cb2b874bd99000e96e2e6e0e03844c
+  revision: 4ff5f6a15bb8f89c07b396a81b825a4efaaecd29
   specs:
     actioncable (5.0.0.beta1)
       actionpack (= 5.0.0.beta1)
@@ -79,7 +79,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-core.git
-  revision: bb214a2d472f06b36942daac6c2850ce6029d08b
+  revision: fcf21e6284d755398401aacdaadaf6cdff145658
   specs:
     rspec-core (3.5.0.pre)
       rspec-support (= 3.5.0.pre)
@@ -115,7 +115,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-support.git
-  revision: e0d3aef3b2765678ef323de499255e2b0afd7eb0
+  revision: 4a7a7e698861884f603199f03c74f45a7abc99f7
   specs:
     rspec-support (3.5.0.pre)
 
