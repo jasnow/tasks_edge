@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: e991c7b8cd69d7ba5e221a19e5f386e3ba02eb9d
+  revision: 4d98b0d837b29d34355f3fcb3916b6ac4a8b1bef
   specs:
     actioncable (5.0.0.beta1)
       actionpack (= 5.0.0.beta1)
@@ -79,7 +79,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-core.git
-  revision: fcf21e6284d755398401aacdaadaf6cdff145658
+  revision: 427e7651746a67a38bb49a1cd89fe53e9ecdfc9d
   specs:
     rspec-core (3.5.0.pre)
       rspec-support (= 3.5.0.pre)
@@ -115,7 +115,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-support.git
-  revision: 4a7a7e698861884f603199f03c74f45a7abc99f7
+  revision: 885e37c525b68ccca8351fe648a7826f34630318
   specs:
     rspec-support (3.5.0.pre)
 
