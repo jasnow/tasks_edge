@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: 502bf11789d99183195068d4dae55e78f5a5aa12
+  revision: c44f50e68d0d098633bb6565fb7628c7ea182563
   branch: master
   specs:
     capybara (2.7.0.dev)
@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 475109c517e724c015ee13061416568a7d6b9757
+  revision: f734dd1111b09deb4f1b20629d753f75f04ca17a
   specs:
     actioncable (5.0.0.beta3)
       actionpack (= 5.0.0.beta3)
@@ -219,7 +219,7 @@ GEM
     rspec-support (3.5.0.beta2)
     ruby_parser (3.8.1)
       sexp_processor (~> 4.1)
-    sass (3.4.21)
+    sass (3.4.22)
     sexp_processor (4.7.0)
     sprockets (3.5.2)
       concurrent-ruby (~> 1.0)
