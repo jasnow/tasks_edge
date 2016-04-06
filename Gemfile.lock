@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: c590500851f95c46bc33d31ca3cd934d7be6fe6c
+  revision: b04cc8b0d10b0b791f980655505a20b495b2d329
   branch: master
   specs:
     capybara (2.7.0.dev)
@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 106851c445c8a0b9358bfa4312f3459b870e775b
+  revision: 1c3afbab779f052a3fc6d5e2747874b3347d58cf
   specs:
     actioncable (5.0.0.beta3)
       actionpack (= 5.0.0.beta3)
@@ -183,7 +183,7 @@ GEM
     nio4r (1.2.1)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
-    overcommit (0.32.0)
+    overcommit (0.33.0)
       childprocess (~> 0.5.8)
       iniparse (~> 1.4)
     ptools (1.3.3)
@@ -221,7 +221,7 @@ GEM
       sexp_processor (~> 4.1)
     sass (3.4.22)
     sexp_processor (4.7.0)
-    sprockets (3.5.2)
+    sprockets (3.6.0)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (3.0.4)
