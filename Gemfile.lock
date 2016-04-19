@@ -1,17 +1,4 @@
 GIT
-  remote: git://github.com/jnicklas/capybara.git
-  revision: 4be1a3126c4fbf836561f2e2ce86f02dbdb8d1c0
-  branch: master
-  specs:
-    capybara (2.8.0.dev)
-      addressable
-      mime-types (>= 1.16)
-      nokogiri (>= 1.3.3)
-      rack (>= 1.0.0)
-      rack-test (>= 0.5.4)
-      xpath (~> 2.0)
-
-GIT
   remote: git://github.com/rails/rails.git
   revision: 406a2380b88714387e015efcc0696bd2b20f49f1
   specs:
@@ -80,6 +67,13 @@ GEM
     bcrypt-ruby (3.1.5)
       bcrypt (>= 3.1.3)
     builder (3.2.2)
+    capybara (2.7.0)
+      addressable
+      mime-types (>= 1.16)
+      nokogiri (>= 1.3.3)
+      rack (>= 1.0.0)
+      rack-test (>= 0.5.4)
+      xpath (~> 2.0)
     childprocess (0.5.9)
       ffi (~> 1.0, >= 1.0.11)
     coffee-script (2.4.1)
@@ -251,7 +245,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  capybara!
+  capybara
   coffee-script
   dawnscanner
   jquery-rails
