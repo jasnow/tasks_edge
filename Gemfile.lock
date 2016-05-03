@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: e0a9baa044022eea52b8c4b36689396dac165944
+  revision: 5fd17b92577a82ca3808bac199fa051c5ee9f7a9
   specs:
     rails (5.0.0.beta4)
       actioncable (= 5.0.0.beta4)
@@ -51,7 +51,7 @@ GEM
       activesupport (= 5.0.0.beta4)
       arel (~> 7.0)
     activesupport (5.0.0.beta4)
-      concurrent-ruby (~> 1.0)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (~> 0.7)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
