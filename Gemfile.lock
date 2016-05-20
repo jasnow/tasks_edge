@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 89e2f7e722e06f900bdb1c14db33073c90d7cdea
+  revision: 0670a64481d151854c909035841d256d9b906edc
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -144,7 +144,7 @@ GEM
     do_sqlite3 (0.10.17)
       data_objects (= 0.10.17)
     erubis (2.7.0)
-    execjs (2.6.0)
+    execjs (2.7.0)
     fastercsv (1.5.5)
     ffi (1.9.10)
     globalid (0.3.6)
@@ -232,7 +232,7 @@ GEM
     uglifier (3.0.0)
       execjs (>= 0.3.0, < 3)
     uuidtools (2.1.5)
-    websocket-driver (0.6.3)
+    websocket-driver (0.6.4)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.2)
     xpath (2.0.0)
