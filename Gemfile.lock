@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: c4cb6862babd2665a65056e205c2a5fd17a5d99d
+  revision: 1221eb4f5ed7a6590bef5b37521594420a1ebed5
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -185,7 +185,7 @@ GEM
       json
     rack-test (0.6.3)
       rack (>= 1.0)
-    rails-dom-testing (2.0.0)
+    rails-dom-testing (2.0.1)
       activesupport (>= 4.2.0, < 6.0)
       nokogiri (~> 1.6.0)
     rails-html-sanitizer (1.0.3)
