@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 1de3db90463d2d55fccf0ce08e40bc00e5742ddf
+  revision: 1528c8c2aea0dec2199a4eec8f54ab2c2d58e57c
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -192,7 +192,7 @@ GEM
       nokogiri (~> 1.6.0)
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
-    rake (11.1.2)
+    rake (11.2.0)
     rspec-core (3.5.0.beta4)
       rspec-support (= 3.5.0.beta4)
     rspec-expectations (3.5.0.beta4)
