@@ -7,7 +7,7 @@ class TasksController < ApplicationController
   def create
    #render :text => params.inspect
    Task.create task_params
-   redirect_to request.env['HTTP_REFERER']
+   redirect_back(fallback_location: tasks_path)
   end
 
   def edit
@@ -19,14 +19,15 @@ class TasksController < ApplicationController
     if task.update_attributes(task_params)
       redirect_to tasks_path,  :notice => 'Your tasks successfully been updated'
     else
-      redirect_to request.env['HTTP_REFERER'],
-        :notice => 'There was an error updating your task.'
+      flash[:notice] = 'There was an error updating your task.'
+      redirect_back(fallback_location: tasks_path)
     end
   end
 
   def destroy
-     Task.destroy params[:id]
-     redirect_to request.env['HTTP_REFERER'], :notice => 'Task has been deleted'
+    Task.destroy params[:id]
+    flash[:notice] = 'Task has been deleted'
+    redirect_back(fallback_location: tasks_path)
   end
 
 private
