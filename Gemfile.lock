@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 58b70b4ed562f0086314d15bb9efcc0fec573b0f
+  revision: 94ef224aa61ace3fa643eab161ff9056b7d90a62
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -214,7 +214,7 @@ GEM
       sexp_processor (~> 4.1)
     sass (3.4.22)
     sexp_processor (4.7.0)
-    sprockets (3.6.0)
+    sprockets (3.6.1)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (3.0.4)
