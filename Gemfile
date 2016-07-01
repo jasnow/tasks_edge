@@ -14,7 +14,7 @@ group :development do
 end
 
 group :test, :development do
-  gem 'rspec-rails', '3.5.0.beta4' # RAILS 5
+  gem 'rspec-rails'
 
   gem 'rb-inotify' if /linux/ =~ RUBY_PLATFORM
   gem 'capybara'
