@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 268a5bb010ef91880d9b03b60e5e86ae5521e73c
+  revision: 58cabed38efddf54b67fd705fb98f5682fb1d5aa
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -94,7 +94,7 @@ GEM
       dm-validations (~> 1.2.0)
     data_objects (0.10.17)
       addressable (~> 2.1)
-    dawnscanner (1.6.4)
+    dawnscanner (1.6.5)
       cvss
       data_mapper
       dm-sqlite-adapter
@@ -192,7 +192,7 @@ GEM
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
     rake (11.3.0)
-    rspec-core (3.5.3)
+    rspec-core (3.5.4)
       rspec-support (~> 3.5.0)
     rspec-expectations (3.5.0)
       diff-lcs (>= 1.2.0, < 2.0)
