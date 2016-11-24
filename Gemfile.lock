@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 49aa974ec8b15721d53b3b6abea88bd6ba433a68
+  revision: 2f73982c215b6573bfa59e5a89471aedbd7c211a
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -95,7 +95,7 @@ GEM
       dm-validations (~> 1.2.0)
     data_objects (0.10.17)
       addressable (~> 2.1)
-    dawnscanner (1.6.6)
+    dawnscanner (1.6.7)
       cvss
       data_mapper
       dm-sqlite-adapter
