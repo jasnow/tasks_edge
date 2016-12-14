@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', git: 'https://github.com/rails/rails'
+gem 'json', '2.0.2' # LOCKED DOWN
 
 gem 'sqlite3'
 gem 'sass'
