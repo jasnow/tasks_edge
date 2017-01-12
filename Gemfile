@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 
 gem 'rails', git: 'https://github.com/rails/rails'
 gem 'arel', git: 'https://github.com/rails/arel'
-gem 'json', '2.0.2' # LOCKED DOWN
 
 gem 'sqlite3'
 gem 'sass'
