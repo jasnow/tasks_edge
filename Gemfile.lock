@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: aa0a3d26e338dd293a632e99e815e5ca6fad0d58
+  revision: f2ef5159073db0fc30e7af59497be7e2f155f807
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -152,7 +152,7 @@ GEM
     erubis (2.7.0)
     execjs (2.7.0)
     fastercsv (1.5.5)
-    ffi (1.9.16)
+    ffi (1.9.17)
     globalid (0.3.7)
       activesupport (>= 4.1.0)
     haml (4.0.7)
@@ -214,7 +214,7 @@ GEM
       rspec-mocks (~> 3.5.0)
       rspec-support (~> 3.5.0)
     rspec-support (3.5.0)
-    ruby_parser (3.8.3)
+    ruby_parser (3.8.4)
       sexp_processor (~> 4.1)
     sass (3.4.23)
     sexp_processor (4.7.0)
