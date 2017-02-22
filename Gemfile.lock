@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: ecca24e2d76f647f342e6bdf8c68a693ff49ae9a
+  revision: a92bd65e37bb08a08fd0aaf4d12c7c6cb92c2c17
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -157,7 +157,7 @@ GEM
       activesupport (>= 4.1.0)
     haml (4.0.7)
       tilt
-    i18n (0.8.0)
+    i18n (0.8.1)
     iniparse (1.4.2)
     jquery-rails (4.2.2)
       rails-dom-testing (>= 1, < 3)
