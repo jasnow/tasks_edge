@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 6efd4ab6e1195e06221bca3ae9bdb56adb634be7
+  revision: 56014880a2d25416befbd2e440fc94c2b66a0026
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -231,7 +231,7 @@ GEM
     tilt (2.0.7)
     tzinfo (1.2.3)
       thread_safe (~> 0.1)
-    uglifier (3.1.11)
+    uglifier (3.1.12)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (1.1.3)
     uuidtools (2.1.5)
