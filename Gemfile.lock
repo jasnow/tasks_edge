@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: e319b01de8d42e1c8dd511d882b988121c81604f
+  revision: 472f39f781e5ebf5dcb19bb432572ba68dfcceca
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -193,6 +193,9 @@ GEM
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
     rake (12.0.0)
+    rb-fsevent (0.10.2)
+    rb-inotify (0.9.10)
+      ffi (>= 0.5.0, < 2)
     rspec-core (3.6.0)
       rspec-support (~> 3.6.0)
     rspec-expectations (3.6.0)
@@ -212,7 +215,11 @@ GEM
     rspec-support (3.6.0)
     ruby_parser (3.9.0)
       sexp_processor (~> 4.1)
-    sass (3.4.25)
+    sass (3.5.0)
+      sass-listen (~> 3.0.7)
+    sass-listen (3.0.7)
+      rb-fsevent (>= 0.9.3)
+      rb-inotify (>= 0.9.7)
     sexp_processor (4.9.0)
     sprockets (3.7.1)
       concurrent-ruby (~> 1.0)
