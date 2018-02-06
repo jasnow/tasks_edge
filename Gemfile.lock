@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f9a8646d8150956524a72af9f85c832bbe84061b
+  revision: 83c1ed9a1a11196cab66d9c44a56a902ca0710e4
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -153,7 +153,7 @@ GEM
     erubi (1.7.0)
     execjs (2.7.0)
     fastercsv (1.5.5)
-    ffi (1.9.18)
+    ffi (1.9.21)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     haml (5.0.4)
