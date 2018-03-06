@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d13ce1f398216edac443fc45725049546d7e3865
+  revision: a3b7aa66bc81da96ea91019540e8874a76216cd8
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -150,7 +150,7 @@ GEM
       dm-core (~> 1.2.0)
     do_sqlite3 (0.10.17)
       data_objects (= 0.10.17)
-    erubi (1.7.0)
+    erubi (1.7.1)
     execjs (2.7.0)
     fastercsv (1.5.5)
     ffi (1.9.23)
