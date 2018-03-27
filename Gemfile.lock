@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 1518457a67781f44276044e325aaaa97c9988741
+  revision: 7b668e2d42cb281b634f0222f6090812acba6b15
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -194,7 +194,7 @@ GEM
     ptools (1.3.5)
     public_suffix (3.0.2)
     rack (2.0.4)
-    rack-test (0.8.3)
+    rack-test (1.0.0)
       rack (>= 1.0, < 3)
     rails-dom-testing (2.0.3)
       activesupport (>= 4.2.0)
