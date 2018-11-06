@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: a8c06c2d7dfa49a9fede1eec65c1058fe0fac82b
+  revision: 212c28ac86fec0f2baf57fbc21ceb8696092fe47
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -85,7 +85,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.1.1)
+    concurrent-ruby (1.1.2)
     crass (1.0.4)
     cvss (0.99.0)
     data_mapper (1.2.0)
