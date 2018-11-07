@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 212c28ac86fec0f2baf57fbc21ceb8696092fe47
+  revision: 8eaffe7e89719ac62ff29c2e4208cfbeb1cd1c38
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -85,7 +85,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.1.2)
+    concurrent-ruby (1.1.3)
     crass (1.0.4)
     cvss (0.99.0)
     data_mapper (1.2.0)
@@ -224,7 +224,7 @@ GEM
     rspec-support (3.8.0)
     ruby_parser (3.11.0)
       sexp_processor (~> 4.9)
-    sass (3.6.0)
+    sass (3.7.0)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
