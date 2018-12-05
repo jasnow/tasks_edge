@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 609c58bfa6df58b88e3eadebb1f1d49354541d24
+  revision: 65c4b1b50df3fa59198de2d45d1f54b61ecc7864
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -165,7 +165,7 @@ GEM
       rspec-mocks (~> 3.8.0)
       rspec-support (~> 3.8.0)
     rspec-support (3.8.0)
-    ruby_parser (3.11.0)
+    ruby_parser (3.12.0)
       sexp_processor (~> 4.9)
     sass (3.7.2)
       sass-listen (~> 4.0.0)
