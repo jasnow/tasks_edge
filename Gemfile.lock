@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: c329d323fc2cc9ba1c486932556afd8fbd9333cc
+  revision: 5bb8f3ae67400b2e5ff3f21802b81a4dc11a7582
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -225,4 +225,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   1.17.2
+   1.17.3
