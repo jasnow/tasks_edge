@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 9e34df00039d63b5672315419e76f06f80ef3dc4
+  revision: 92cc996a09b7ffd5908c3c6771484fdf82e8729a
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -80,7 +80,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.2)
+    addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
     builder (3.2.3)
     capybara (3.12.0)
@@ -171,7 +171,7 @@ GEM
     rspec-mocks (3.8.0)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.8.0)
-    rspec-rails (3.8.1)
+    rspec-rails (3.8.2)
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       railties (>= 3.0)
