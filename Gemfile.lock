@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 9f2c74eda07ea5a9e4e624d5575a717714088dbf
+  revision: f2dc9788a8cfe4c5b52fa6e6d78d8d1afe941ba1
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -119,7 +119,7 @@ GEM
     haml (5.1.2)
       temple (>= 0.8.0)
       tilt
-    i18n (1.6.0)
+    i18n (1.7.0)
       concurrent-ruby (~> 1.0)
     iniparse (1.4.4)
     jquery-rails (4.3.5)
