@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 634f167c8430366670b08f8ffbdf735d79a6930f
+  revision: d56d2e740612717334840b0d0ea979e1ca7cf5b1
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -168,7 +168,7 @@ GEM
     rspec-mocks (3.9.1)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.9.0)
-    rspec-rails (4.0.0.beta4)
+    rspec-rails (4.0.0)
       actionpack (>= 4.2)
       activesupport (>= 4.2)
       railties (>= 4.2)
@@ -225,7 +225,7 @@ DEPENDENCIES
   launchy
   overcommit
   rails!
-  rspec-rails (= 4.0.0.beta4)
+  rspec-rails
   sassc-rails
   sqlite3
   uglifier
