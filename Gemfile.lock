@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 57da1d0188f46face820bcdd4d8a78dbb393bdcf
+  revision: 854587c268a5474f824215c84409d44466fba9dd
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -141,7 +141,7 @@ GEM
     mimemagic (0.3.5)
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
-    minitest (5.14.1)
+    minitest (5.14.2)
     nio4r (2.5.2)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
@@ -177,7 +177,7 @@ GEM
       rspec-mocks (~> 3.9)
       rspec-support (~> 3.9)
     rspec-support (3.9.3)
-    ruby_parser (3.14.2)
+    ruby_parser (3.15.0)
       sexp_processor (~> 4.9)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -187,7 +187,7 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-    sexp_processor (4.15.0)
+    sexp_processor (4.15.1)
     sprockets (4.0.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
