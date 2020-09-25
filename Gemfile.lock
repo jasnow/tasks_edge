@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 7cc563427de111ee7983645bfb86403fc16f8797
+  revision: 7387b85ebb4a3f2ba909009210fb3ca4302733cf
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -59,7 +59,6 @@ GIT
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
-      rexml
       tzinfo (~> 2.0)
       zeitwerk (~> 2.3)
     rails (6.1.0.alpha)
@@ -162,7 +161,6 @@ GEM
       loofah (~> 2.3)
     rake (13.0.1)
     regexp_parser (1.8.0)
-    rexml (3.2.4)
     rspec-core (3.9.2)
       rspec-support (~> 3.9.3)
     rspec-expectations (3.9.2)
