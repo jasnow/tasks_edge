@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: de0f59f1ce2443964948a0504d0cf897765d2886
+  revision: 2dbd2e41f884845637644867ce1c392754a69862
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -200,7 +200,7 @@ GEM
     sys-uname (1.2.2)
       ffi (~> 1.1)
     temple (0.8.2)
-    terminal-table (1.8.0)
+    terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thor (1.0.1)
     tilt (2.0.10)
