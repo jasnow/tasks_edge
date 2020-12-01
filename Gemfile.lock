@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 761fea3822248105de72948bb2cdf677b116b9c0
+  revision: 6f9d4a000b4394bb13daacb30003bc4010a60d23
   specs:
     actioncable (6.1.0.rc1)
       actionpack (= 6.1.0.rc1)
@@ -117,7 +117,7 @@ GEM
     ffi (1.13.1)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
-    haml (5.2.0)
+    haml (5.2.1)
       temple (>= 0.8.0)
       tilt
     i18n (1.8.5)
