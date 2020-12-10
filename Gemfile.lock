@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 257f151ffda42eacc5be9ddad6f3000668b163d4
+  revision: 46337faa795fa40dedb1b9b906bec1793358d7f3
   specs:
     actioncable (6.2.0.alpha)
       actionpack (= 6.2.0.alpha)
@@ -218,6 +218,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-16
 
 DEPENDENCIES
   capybara
@@ -232,4 +233,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   2.1.4
+   2.2.0
