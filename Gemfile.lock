@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 7378ffb782cc7f61e3148ff746e1847e9424c6d6
+  revision: e7d207f02fe8bf6e351de7da106839b0ab14bbea
   specs:
     actioncable (6.2.0.alpha)
       actionpack (= 6.2.0.alpha)
@@ -161,9 +161,9 @@ GEM
       loofah (~> 2.3)
     rake (13.0.3)
     regexp_parser (1.8.2)
-    rspec-core (3.10.0)
+    rspec-core (3.10.1)
       rspec-support (~> 3.10.0)
-    rspec-expectations (3.10.0)
+    rspec-expectations (3.10.1)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.10.0)
     rspec-mocks (3.10.0)
@@ -177,7 +177,7 @@ GEM
       rspec-expectations (~> 3.10)
       rspec-mocks (~> 3.10)
       rspec-support (~> 3.10)
-    rspec-support (3.10.0)
+    rspec-support (3.10.1)
     ruby_parser (3.15.0)
       sexp_processor (~> 4.9)
     sassc (2.4.0)
