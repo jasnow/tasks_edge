@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 291a3d2ef29a3842d1156ada7526f4ee60dd2b59
+  revision: f250208dd477e879f16a0cea51bc5c399651107d
   specs:
     actioncable (6.2.0.alpha)
       actionpack (= 6.2.0.alpha)
@@ -131,7 +131,7 @@ GEM
     launchy (2.5.0)
       addressable (~> 2.7)
     logger-colors (1.0.0)
-    loofah (2.8.0)
+    loofah (2.9.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.1)
