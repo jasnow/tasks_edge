@@ -144,8 +144,6 @@ GEM
     mini_mime (1.0.2)
     minitest (5.14.3)
     nio4r (2.5.5)
-    nokogiri (1.11.1-x86_64-darwin)
-      racc (~> 1.4)
     nokogiri (1.11.1-x86_64-linux)
       racc (~> 1.4)
     overcommit (0.57.0)
@@ -163,6 +161,8 @@ GEM
     rails-html-sanitizer (1.3.0)
       loofah (~> 2.3)
     rake (13.0.3)
+    rb-inotify (0.10.1)
+      ffi (~> 1.0)
     regexp_parser (2.0.3)
     rspec-core (3.10.1)
       rspec-support (~> 3.10.0)
@@ -220,7 +220,6 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
-  x86_64-darwin-16
   x86_64-linux
 
 DEPENDENCIES
@@ -230,6 +229,7 @@ DEPENDENCIES
   launchy
   overcommit
   rails!
+  rb-inotify
   rspec-rails
   sassc-rails
   sqlite3
