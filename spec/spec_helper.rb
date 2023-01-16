@@ -42,4 +42,6 @@ RSpec.configure do |config|
   config.mock_with :rspec do |c|
     c.yield_receiver_to_any_instance_implementation_blocks = true
   end
+
+  config.render_views = true
 end
