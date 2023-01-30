@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f0ffc0b32173114d0ecbd1ea4d87fe52e326eb90
+  revision: 55e4ddde1b3a8e4d7a4685958c55cac05359234a
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -144,7 +144,7 @@ GEM
       thor (>= 0.14, < 2.0)
     json (2.6.3)
     justify (1.0.2)
-    language_server-protocol (3.17.0.2)
+    language_server-protocol (3.17.0.3)
     launchy (2.5.2)
       addressable (~> 2.8)
     logger-colors (1.0.0)
