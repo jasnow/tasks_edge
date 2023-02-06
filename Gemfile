@@ -7,6 +7,7 @@ gem "sassc-rails"
 gem "uglifier"
 gem "jquery-rails"
 gem "overcommit"
+gem "ruby_audit"
 
 group :development do
   gem "dawnscanner", require: false
