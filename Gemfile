@@ -19,4 +19,5 @@ group :test, :development do
   gem "capybara"
   gem "launchy"
   gem "standard"
+  gem "spektr"
 end
