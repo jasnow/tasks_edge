@@ -20,4 +20,7 @@ group :test, :development do
   gem "launchy"
   gem "standard"
   gem "spektr"
+
+  #gem 'execjs'
+  gem 'mini_racer', platform: :ruby
 end
