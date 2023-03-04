@@ -18,6 +18,7 @@ group :test, :development do
   gem "rb-inotify" if /linux/.match?(RUBY_PLATFORM)
   gem "capybara"
   gem "launchy"
+  gem 'simplecov'
   gem "standard"
   gem "spektr"
 end
