@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: bd8aeead92c11dbd82ddb9f114ea63b0daf160b4
+  revision: 539144d2d61770dab66c8643e744441e52538e09
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -119,7 +119,7 @@ GEM
     crass (1.0.6)
     cvss (0.99.0)
     date (3.3.3)
-    dawnscanner (2.1.1)
+    dawnscanner (2.2.0)
       cvss
       haml
       justify
