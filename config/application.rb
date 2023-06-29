@@ -23,5 +23,7 @@ module Tasks
     config.generators.javascript_engine = :js
 
     config.action_dispatch.return_only_media_type_on_content_type = false
+
+    config.load_defaults 7.0	
   end
 end
