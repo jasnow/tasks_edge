@@ -2,6 +2,8 @@ source "https://rubygems.org"
 
 gem "rails", git: "https://github.com/rails/rails", branch: "main"
 
+ruby File.read(".ruby-version")
+
 gem "sqlite3"
 gem "sassc-rails"
 gem "uglifier"
