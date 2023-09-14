@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 7b670848e1362cd3f708417dc8db518b265bb189
+  revision: ff6bf8dd7e1350dac14a2cefd76ce18f181df634
   branch: main
   specs:
     actioncable (7.1.0.beta1)
@@ -326,7 +326,7 @@ GEM
     standard-performance (1.2.0)
       lint_roller (~> 1.1)
       rubocop-performance (~> 1.19.0)
-    stringio (3.0.8)
+    stringio (3.0.9)
     strings (0.2.1)
       strings-ansi (~> 0.2)
       unicode-display_width (>= 1.5, < 3.0)
@@ -338,7 +338,7 @@ GEM
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
     thor (1.2.2)
-    tilt (2.2.0)
+    tilt (2.3.0)
     timeout (0.4.0)
     tty-color (0.6.0)
     tty-cursor (0.7.1)
@@ -387,7 +387,7 @@ DEPENDENCIES
   uglifier
 
 RUBY VERSION
-   ruby 3.3.0.preview1
+   ruby 3.3.0.preview2
 
 BUNDLED WITH
    2.5.0.dev
