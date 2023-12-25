@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "rails", git: "https://github.com/rails/rails", branch: "main"
+gem "mutex_m"
 
 ruby File.read(".ruby-version")
 
