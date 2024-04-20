@@ -5,7 +5,7 @@ gem "mutex_m"
 
 ruby File.read(".ruby-version")
 
-gem "sqlite3"
+gem "sqlite3", "~> 1.4"
 gem "sassc-rails"
 gem "uglifier"
 gem "jquery-rails"
