@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 26e53f43640821281bfd98bf91cee2c6ffa20daa
+  revision: e3867798a0015c97e5075ae0bada9c47160f9016
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -158,7 +158,7 @@ GEM
     json (2.7.2)
     justify (1.0.2)
     language_server-protocol (3.17.0.3)
-    launchy (3.0.0)
+    launchy (3.0.1)
       addressable (~> 2.8)
       childprocess (~> 5.0)
     lint_roller (1.1.0)
@@ -239,7 +239,7 @@ GEM
     rdoc (6.6.3.1)
       psych (>= 4.0.0)
     regexp_parser (2.9.0)
-    reline (0.5.4)
+    reline (0.5.5)
       io-console (~> 0.5)
     rexml (3.2.6)
     rspec-core (3.13.0)
