@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f6fd15cb7563740ba3896207ed28e1308301d9dc
+  revision: 735da84034f101c02c652b44de39e2b3009d2a7a
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -101,7 +101,7 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     ast (2.4.2)
     base64 (0.2.0)
-    bigdecimal (3.1.7)
+    bigdecimal (3.1.8)
     builder (3.2.4)
     bundler-audit (0.9.1)
       bundler (>= 1.2.0, < 3)
@@ -144,7 +144,7 @@ GEM
       temple (>= 0.8.2)
       thor
       tilt
-    i18n (1.14.4)
+    i18n (1.14.5)
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     io-console (0.7.2)
@@ -177,7 +177,7 @@ GEM
     mini_portile2 (2.8.6)
     minitest (5.21.2)
     mutex_m (0.2.0)
-    net-imap (0.4.10)
+    net-imap (0.4.11)
       date
       net-protocol
     net-pop (0.1.2)
@@ -186,7 +186,7 @@ GEM
       timeout
     net-smtp (0.5.0)
       net-protocol
-    nio4r (2.7.1)
+    nio4r (2.7.3)
     nokogiri (1.16.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
@@ -239,7 +239,7 @@ GEM
     rdoc (6.6.3.1)
       psych (>= 4.0.0)
     regexp_parser (2.9.0)
-    reline (0.5.5)
+    reline (0.5.6)
       io-console (~> 0.5)
     rexml (3.2.6)
     rspec-core (3.13.0)
@@ -247,7 +247,7 @@ GEM
     rspec-expectations (3.13.0)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.13.0)
-    rspec-mocks (3.13.0)
+    rspec-mocks (3.13.1)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.13.0)
     rspec-rails (6.1.2)
